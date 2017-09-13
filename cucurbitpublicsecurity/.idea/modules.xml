@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cps-api/cps-api.iml" filepath="$PROJECT_DIR$/cps-api/cps-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cps-consumer/cps-consumer.iml" filepath="$PROJECT_DIR$/cps-consumer/cps-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cps-web/cps-web.iml" filepath="$PROJECT_DIR$/cps-web/cps-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cucurbitpublicsecurity.iml" filepath="$PROJECT_DIR$/cucurbitpublicsecurity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+    </modules>
+  </component>
+</project>
