@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cps/api/api.iml" filepath="$PROJECT_DIR$/../cps/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cps.iml" filepath="$PROJECT_DIR$/cps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cps/modules/cps-web/cps-web.iml" filepath="$PROJECT_DIR$/../cps/modules/cps-web/cps-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cps/start/start.iml" filepath="$PROJECT_DIR$/../cps/start/start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cps/modules/web-business/web-business.iml" filepath="$PROJECT_DIR$/../cps/modules/web-business/web-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cps/modules/xxx-business/xxx-business.iml" filepath="$PROJECT_DIR$/../cps/modules/xxx-business/xxx-business.iml" />
+    </modules>
+  </component>
+</project>

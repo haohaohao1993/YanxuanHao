@@ -1,0 +1,25 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>com.hikvision</groupId>
+		<artifactId>cps</artifactId>
+		<version>1.0-SNAPSHOT</version>
+	</parent>
+	
+	<groupId>com.hikvision</groupId>
+	<artifactId>modules</artifactId>
+	<version>1.0-SNAPSHOT</version>
+	
+	<packaging>pom</packaging>
+	<name>cps - modules</name>
+	<description>工程业务模块父级pom，需要自己添加子pom并且设置packaging为jar。</description>
+
+	<modules>
+		<module>xxx-business</module>
+		<module>web-business</module>
+		<module>cps-web</module>
+	</modules>
+	
+</project>

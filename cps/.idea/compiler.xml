@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="cps-web" />
+        <module name="cpsweb" />
+        <module name="start" />
+        <module name="web-business" />
+        <module name="xxx-business" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="apis" target="1.8" />
+      <module name="cps" target="1.8" />
+      <module name="cps-web" target="1.8" />
+      <module name="cpsweb" target="1.8" />
+      <module name="modules" target="1.8" />
+      <module name="modules (1)" target="1.5" />
+      <module name="start" target="1.8" />
+      <module name="start (1)" target="1.5" />
+      <module name="view" target="1.8" />
+      <module name="web-business" target="1.8" />
+      <module name="xxx-business" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

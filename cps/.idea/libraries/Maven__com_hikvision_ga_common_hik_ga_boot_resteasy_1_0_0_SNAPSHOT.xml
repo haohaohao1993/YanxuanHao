@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hikvision.ga.common:hik-ga-boot-resteasy:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hikvision/ga/common/hik-ga-boot-resteasy/1.0.0-SNAPSHOT/hik-ga-boot-resteasy-1.0.0-20170912.013156-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hikvision/ga/common/hik-ga-boot-resteasy/1.0.0-SNAPSHOT/hik-ga-boot-resteasy-1.0.0-20170912.013156-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hikvision/ga/common/hik-ga-boot-resteasy/1.0.0-SNAPSHOT/hik-ga-boot-resteasy-1.0.0-20170912.013156-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

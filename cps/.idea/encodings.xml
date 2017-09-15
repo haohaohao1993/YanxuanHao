@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../cps" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/apis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/modules" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/modules/cps-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/modules/web-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/modules/xxx-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/start" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cps/view" charset="UTF-8" />
+  </component>
+</project>
