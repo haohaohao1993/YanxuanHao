@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hikvision.ga.common:hik-ga-boot-feign-jaxrs:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hikvision/ga/common/hik-ga-boot-feign-jaxrs/1.0.0-SNAPSHOT/hik-ga-boot-feign-jaxrs-1.0.0-20170912.013128-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hikvision/ga/common/hik-ga-boot-feign-jaxrs/1.0.0-SNAPSHOT/hik-ga-boot-feign-jaxrs-1.0.0-20170912.013128-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/hikvision/ga/common/hik-ga-boot-feign-jaxrs/1.0.0-SNAPSHOT/hik-ga-boot-feign-jaxrs-1.0.0-20170912.013128-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
