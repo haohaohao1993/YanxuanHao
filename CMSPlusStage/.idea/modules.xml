@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CMSPlusStage.iml" filepath="$PROJECT_DIR$/CMSPlusStage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/cmss-api/cmss-api.iml" filepath="$PROJECT_DIR$/api/cmss-api/cmss-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/cmss-base/cmss-base.iml" filepath="$PROJECT_DIR$/common/cmss-base/cmss-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cmss-business/cmss-business.iml" filepath="$PROJECT_DIR$/modules/cmss-business/cmss-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/cmss-config/cmss-config.iml" filepath="$PROJECT_DIR$/common/cmss-config/cmss-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/cmss-constant/cmss-constant.iml" filepath="$PROJECT_DIR$/common/cmss-constant/cmss-constant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/cmss-service/cmss-service.iml" filepath="$PROJECT_DIR$/modules/cmss-service/cmss-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/start/start.iml" filepath="$PROJECT_DIR$/start/start.iml" />
+    </modules>
+  </component>
+</project>

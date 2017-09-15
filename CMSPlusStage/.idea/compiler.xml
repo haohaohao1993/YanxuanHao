@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cmss-api" />
+        <module name="cmss-base" />
+        <module name="cmss-business" />
+        <module name="cmss-config" />
+        <module name="cmss-constant" />
+        <module name="cmss-service" />
+        <module name="cmssconstant" />
+        <module name="common" />
+        <module name="start" />
+        <module name="web-business" />
+        <module name="xxx-api" />
+        <module name="xxx-business" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="CMSPlusStage" target="1.8" />
+      <module name="cmss-api" target="1.8" />
+      <module name="cmss-base" target="1.5" />
+      <module name="cmss-business" target="1.8" />
+      <module name="cmss-config" target="1.8" />
+      <module name="cmss-constant" target="1.8" />
+      <module name="cmss-service" target="1.8" />
+      <module name="cmssbase" target="1.8" />
+      <module name="cmssconstant" target="1.8" />
+      <module name="common" target="1.5" />
+      <module name="modules" target="1.8" />
+      <module name="start" target="1.8" />
+      <module name="view" target="1.8" />
+      <module name="web-business" target="1.8" />
+      <module name="web-business (1)" target="1.8" />
+      <module name="xxx-api" target="1.8" />
+      <module name="xxx-business" target="1.8" />
+      <module name="xxx-business (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
